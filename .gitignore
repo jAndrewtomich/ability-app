@@ -1,2 +1,4 @@
 .venv
 out/
+.ipynb_checkpoints/
+out.csv
